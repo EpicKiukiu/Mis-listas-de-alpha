@@ -1,0 +1,133 @@
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "cuevana3video",
+    "episode": "03",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "3",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "21/10/2016",
+        "castandrole": [
+            [
+                "Alex Lawther",
+                "Kenny"
+            ],
+            [
+                "Beatrice Robertson-Jones",
+                "Restaurant Daughter"
+            ],
+            [
+                "Camilla Power",
+                "Sandra"
+            ],
+            [
+                "Frankie Wilson",
+                "Tom"
+            ],
+            [
+                "Hannah Steele",
+                "Melissa"
+            ],
+            [
+                "Ivanno Jeremiah",
+                "Moped Man"
+            ],
+            [
+                "Jerome Flynn",
+                "Hector"
+            ],
+            [
+                "Jimmy Roye-Dunne",
+                "Red"
+            ],
+            [
+                "Leanne Best",
+                "Penny"
+            ],
+            [
+                "Mariam Haque",
+                "Petrol Station Attendant"
+            ],
+            [
+                "Maya Gerber",
+                "Lindsay"
+            ],
+            [
+                "Natasha Little",
+                "Karen"
+            ],
+            [
+                "Nicola Sloane",
+                "Bank Clerk"
+            ],
+            [
+                "Paul Bazely",
+                "The Man in the Woods"
+            ],
+            [
+                "Sarah Beck Mather",
+                "Restaurant Mother"
+            ],
+            [
+                "Susannah Doyle",
+                "Blackmailed Woman"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Dan Trachtenberg, Jakob Verbruggen, James Hawes, James Watkins, Joe Wright, Owen Harris",
+        "episode": 3,
+        "episodio_air_date": "21/10/2016",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/MU0lsD08pcuwaYMGOQMFGFWJGg.jpg",
+        "episodio_sinopsis": "Un virus ha infectado su ordenador y ahora se enfrenta a una terrible decisi\u00f3n: o sigue las \u00f3rdenes que le mandan por SMS o sus secretos m\u00e1s \u00edntimos saldr\u00e1n a la luz.",
+        "episodio_titulo": "C\u00e1llate y baila",
+        "episodio_vote_average": 7.857,
+        "episodio_vote_count": 297,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Un virus ha infectado su ordenador y ahora se enfrenta a una terrible decisi\u00f3n: o sigue las \u00f3rdenes que le mandan por SMS o sus secretos m\u00e1s \u00edntimos saldr\u00e1n a la luz.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/MU0lsD08pcuwaYMGOQMFGFWJGg.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.857,
+        "season": 3,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "21/10/2016",
+        "temporada_nombre": "Temporada 3",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/pzspnCzSuyFnWrtxZh7AM0nHn7h.jpg",
+        "temporada_sinopsis": "Historias con la tecnolog\u00eda como nexo: amantes en un para\u00edso surrealista, un joven angustiado por unos SMS muy extra\u00f1os y una app social con inquietantes capacidades.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "C\u00e1llate y baila",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 297,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/MU0lsD08pcuwaYMGOQMFGFWJGg.jpg",
+    "title": "Black Mirror 3x3",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": "https://cuevana3.ch/episodio/black-mirror-3x3"
+}

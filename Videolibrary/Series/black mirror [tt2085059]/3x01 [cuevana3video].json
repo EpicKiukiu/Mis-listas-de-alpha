@@ -1,0 +1,189 @@
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "cuevana3video",
+    "episode": "01",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "3",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "21/10/2016",
+        "castandrole": [
+            [
+                "Abubakar Salim",
+                "Airport Guard"
+            ],
+            [
+                "Alan Ritchson",
+                "Paul Mathesen"
+            ],
+            [
+                "Alice Eve",
+                "Naomi Blestow"
+            ],
+            [
+                "Andrew Roux",
+                "Electro Station Assistant"
+            ],
+            [
+                "Anjana Vasan",
+                "Space Cop"
+            ],
+            [
+                "Blessing Mamuesa",
+                "Glam Woman's Son"
+            ],
+            [
+                "Bryce Dallas Howard",
+                "Lacie Pound"
+            ],
+            [
+                "Cherry Jones",
+                "Susan Taylor"
+            ],
+            [
+                "Clayton Evertson",
+                "Ted"
+            ],
+            [
+                "Colin Moss",
+                "Anthony"
+            ],
+            [
+                "Daisy Haggard",
+                "Bethany 'Bets' Jones"
+            ],
+            [
+                "Daniel Newton",
+                "Kid on the Quad Bike"
+            ],
+            [
+                "Demetri Goritsas",
+                "Hansen"
+            ],
+            [
+                "Deon Lotz",
+                "Man in Car"
+            ],
+            [
+                "James Norton",
+                "Ryan Pound"
+            ],
+            [
+                "Jeffrey Davenport",
+                "Cab Driver"
+            ],
+            [
+                "Jennie Nielson",
+                "Woman in Car"
+            ],
+            [
+                "Justin Munitz",
+                "Keith Jackson"
+            ],
+            [
+                "Kadiff Kirwan",
+                "Chester"
+            ],
+            [
+                "Kevin Otto",
+                "Pastor"
+            ],
+            [
+                "Lewelyn Van Den Berg",
+                "Male Jogger"
+            ],
+            [
+                "Michaela Coel",
+                "Airline Stewardess"
+            ],
+            [
+                "Nambitha Ben-Mazwi",
+                "Glam Woman"
+            ],
+            [
+                "Nathan Ohene Djan",
+                "Holographic Boyfriend"
+            ],
+            [
+                "Ntokozo Majozi",
+                "Jack the Barrista"
+            ],
+            [
+                "Rebecca Newton",
+                "Kid's Younger Sister"
+            ],
+            [
+                "Shane Zaza",
+                "Chuck"
+            ],
+            [
+                "Sope Dirisu",
+                "Man in Jail"
+            ],
+            [
+                "Susannah Fielding",
+                "Carol"
+            ],
+            [
+                "Zandile Madliwa",
+                "Alien Girl"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Dan Trachtenberg, Jakob Verbruggen, James Hawes, James Watkins, Joe Wright, Owen Harris",
+        "episode": 1,
+        "episodio_air_date": "21/10/2016",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/dmEDQliQbapSOcbdu0c2KtmIVna.jpg",
+        "episodio_sinopsis": "Desesperada por aumentar su popularidad en las redes sociales, una mujer acude ilusionada a una boda de alto copete. Pero el viaje no sale como ten\u00eda previsto.",
+        "episodio_titulo": "Ca\u00edda en picada",
+        "episodio_vote_average": 7.848,
+        "episodio_vote_count": 335,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Desesperada por aumentar su popularidad en las redes sociales, una mujer acude ilusionada a una boda de alto copete. Pero el viaje no sale como ten\u00eda previsto.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/dmEDQliQbapSOcbdu0c2KtmIVna.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.848,
+        "season": 3,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "21/10/2016",
+        "temporada_nombre": "Temporada 3",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/pzspnCzSuyFnWrtxZh7AM0nHn7h.jpg",
+        "temporada_sinopsis": "Historias con la tecnolog\u00eda como nexo: amantes en un para\u00edso surrealista, un joven angustiado por unos SMS muy extra\u00f1os y una app social con inquietantes capacidades.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Ca\u00edda en picada",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 335,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/dmEDQliQbapSOcbdu0c2KtmIVna.jpg",
+    "title": "Black Mirror 3x1",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": "https://cuevana3.ch/episodio/black-mirror-3x1"
+}

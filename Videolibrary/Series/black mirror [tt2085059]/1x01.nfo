@@ -1,0 +1,199 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "01",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "1",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "04/12/2011",
+        "castandrole": [
+            [
+                "Alastair Mackenzie",
+                "Martin"
+            ],
+            [
+                "Alex MacQueen",
+                "Special Agent Callett"
+            ],
+            [
+                "Allen Leech",
+                "Pike"
+            ],
+            [
+                "Amit Shah",
+                "Jack"
+            ],
+            [
+                "Andrew Knott",
+                "Brian"
+            ],
+            [
+                "Anna Wilson-Jones",
+                "Jane Callow"
+            ],
+            [
+                "Aymen Hamdouchi",
+                "Kieran"
+            ],
+            [
+                "Chetna Pandya",
+                "Malaika"
+            ],
+            [
+                "Dominic Le Moignan",
+                "Prince"
+            ],
+            [
+                "Donald Sumpter",
+                "Julian Hereford"
+            ],
+            [
+                "Eleanor Wyld",
+                "Young Actress"
+            ],
+            [
+                "Helen Fospero",
+                "Lucinda Towne"
+            ],
+            [
+                "Jay Simpson",
+                "Rod Senseless"
+            ],
+            [
+                "Jeany Spark",
+                "Camilla"
+            ],
+            [
+                "Jeffry Wickham",
+                "Sir Harold Mount"
+            ],
+            [
+                "Johann Myers",
+                "Noel"
+            ],
+            [
+                "Jonathan Forbes",
+                "Browne"
+            ],
+            [
+                "Julian Rivett",
+                "Damon Brown"
+            ],
+            [
+                "Justin Edwards",
+                "Jon"
+            ],
+            [
+                "Lindsay Duncan",
+                "Alex Cairns"
+            ],
+            [
+                "Lydia Wilson",
+                "Princess Susannah"
+            ],
+            [
+                "Madeleine Bowyer",
+                "Sonia"
+            ],
+            [
+                "McKell David",
+                "Son"
+            ],
+            [
+                "Nick Hendrix",
+                "Andrew"
+            ],
+            [
+                "Patrick Kennedy",
+                "Section Chief Walker"
+            ],
+            [
+                "Rakie Ayola",
+                "Shelly"
+            ],
+            [
+                "Rory Kinnear",
+                "Michael Callow"
+            ],
+            [
+                "Shazad Latif",
+                "Mehdi Raboud"
+            ],
+            [
+                "Sophie Kennedy Clark",
+                "Lauren"
+            ],
+            [
+                "Sophie Wu",
+                "Jamie"
+            ],
+            [
+                "Tom Goodman-Hill",
+                "Tom Blice"
+            ],
+            [
+                "Wolf Wasserman",
+                "Spark"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Brian Welsh, Euros Lyn, Otto Bathurst",
+        "episode": 1,
+        "episodio_air_date": "04/12/2011",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg",
+        "episodio_sinopsis": "El primer ministro Michael Callow se enfrenta a un dilema impactante cuando la princesa Susannah, un miembro muy querido de la familia real, es secuestrada.",
+        "episodio_titulo": "El himno nacional",
+        "episodio_vote_average": 7.344,
+        "episodio_vote_count": 387,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "El primer ministro Michael Callow se enfrenta a un dilema impactante cuando la princesa Susannah, un miembro muy querido de la familia real, es secuestrada.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.344,
+        "season": 1,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "04/12/2011",
+        "temporada_nombre": "Temporada 1",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/ewSEQiWFzQoHIoBptSAy6hXecfe.jpg",
+        "temporada_sinopsis": "Esta serie antol\u00f3gica de ciencia ficci\u00f3n imagina realidades en las que la gente se ve obligada a impulsar su propia existencia, recibe implantes de memoria y m\u00e1s.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "El himno nacional",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 387,
+        "writer": "Charlie Brooker, Jesse Armstrong, Konnie Huq",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/1x01.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/9w27Lgeq8KVxhz4ysygT6ranxf1.jpg",
+    "title": "Black Mirror 1x1",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

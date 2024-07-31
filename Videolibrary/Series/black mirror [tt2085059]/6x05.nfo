@@ -1,0 +1,143 @@
+https://www.themoviedb.org/tv/42009/season/6/episode/5
+{
+    "action": "findvideos",
+    "channel": "videolibrary",
+    "episode": "05",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "15/06/2023",
+        "castandrole": [
+            [
+                "Anjana Vasan",
+                "Nida"
+            ],
+            [
+                "Bethan Nash",
+                "Wife"
+            ],
+            [
+                "David Shields",
+                "Michael Smart"
+            ],
+            [
+                "Emily Fairn",
+                "Suzie"
+            ],
+            [
+                "Hayley Considine",
+                "Jean Simons"
+            ],
+            [
+                "Janie Booth",
+                "Sweet Gran"
+            ],
+            [
+                "Joe Evans",
+                "Tim Simons"
+            ],
+            [
+                "Joe Hughes",
+                "Husband"
+            ],
+            [
+                "Jonny Cordingley",
+                "Rod"
+            ],
+            [
+                "Joseph Aumeer",
+                "Demon Gaap"
+            ],
+            [
+                "Joshua James",
+                "Chris Holligan"
+            ],
+            [
+                "Katherine Rose Morley",
+                "Vicky"
+            ],
+            [
+                "Lillie Mae Law",
+                "Laura Simons"
+            ],
+            [
+                "Nicholas Burns",
+                "Keith Holligan"
+            ],
+            [
+                "Nick Holder",
+                "Mr. Duncan"
+            ],
+            [
+                "Paapa Essiedu",
+                "Gaap"
+            ],
+            [
+                "Shaun Dooley",
+                "Len Fisher"
+            ],
+            [
+                "Steve Garti",
+                "Landlord"
+            ],
+            [
+                "Vicky Binns",
+                "Julie the Barmaid"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Toby Haynes",
+        "episode": 5,
+        "episodio_air_date": "15/06/2023",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/6lGVCSv4DfQqgjqauSxM4HmfvKS.jpg",
+        "episodio_sinopsis": "Norte de Inglaterra, 1979. Una t\u00edmida dependienta se ve obligada a cometer actos horribles para evitar un desastre inminente.",
+        "episodio_titulo": "Demonio 79",
+        "episodio_vote_average": 6.092,
+        "episodio_vote_count": 76,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 5,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Norte de Inglaterra, 1979. Una t\u00edmida dependienta se ve obligada a cometer actos horribles para evitar un desastre inminente.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/6lGVCSv4DfQqgjqauSxM4HmfvKS.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.092,
+        "season": 6,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "15/06/2023",
+        "temporada_nombre": "Temporada 6",
+        "temporada_num_episodios": 5,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/5Em4wbpBhNr9BsEYQXh63bCaBOU.jpg",
+        "temporada_sinopsis": "Historias retorcidas que abarcan \u00e9pocas (y terrores) ofrecen una gran cantidad de sorpresas en la temporada m\u00e1s impredecible de esta innovadora serie de antolog\u00eda hasta el momento.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Demonio 79",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 76,
+        "writer": "Bisha K. Ali, Charlie Brooker",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/6x05.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/6lGVCSv4DfQqgjqauSxM4HmfvKS.jpg",
+    "title": "Black Mirror 6x5",
+    "url": ""
+}

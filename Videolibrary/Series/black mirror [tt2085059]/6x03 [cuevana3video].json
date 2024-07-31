@@ -1,0 +1,125 @@
+{
+    "action": "findvideos",
+    "channel": "cuevana3video",
+    "episode": "03",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "15/06/2023",
+        "castandrole": [
+            [
+                "Aaron Paul",
+                "Cliff Stanfield"
+            ],
+            [
+                "Auden Thornton",
+                "Jessica Ross"
+            ],
+            [
+                "Billie Sturrock Kewish",
+                "Lily Ross"
+            ],
+            [
+                "Charlie Fidelski",
+                "Ricky Ross"
+            ],
+            [
+                "Daniel Bell",
+                "Henry Stanfield"
+            ],
+            [
+                "Ioachim Ciobanu",
+                "Epsilon"
+            ],
+            [
+                "Josh Hartnett",
+                "David Ross"
+            ],
+            [
+                "Kate Mara",
+                "Lana Stanfield"
+            ],
+            [
+                "Lydia Cherry",
+                "Sally"
+            ],
+            [
+                "Marama Corlett",
+                "Theta"
+            ],
+            [
+                "Marceline Hugot",
+                "Bookshop Clerk"
+            ],
+            [
+                "Olen Gunn",
+                "Kyle"
+            ],
+            [
+                "Rory Culkin",
+                "Kappa"
+            ],
+            [
+                "Simon Markey",
+                "Pastor"
+            ],
+            [
+                "Si\u00e2n Davis",
+                "Sigma"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "John Crowley",
+        "episode": 3,
+        "episodio_air_date": "15/06/2023",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/1I3oE47FZwSuQWYP02d9rSCaQpq.jpg",
+        "episodio_sinopsis": "En un 1969 alternativo, dos astronautas en una arriesgada misi\u00f3n espacial de alta tecnolog\u00eda deben lidiar con las consecuencias de una tragedia inimaginable.",
+        "episodio_titulo": "Beyond the Sea",
+        "episodio_vote_average": 6.954,
+        "episodio_vote_count": 87,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 5,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "En un 1969 alternativo, dos astronautas en una arriesgada misi\u00f3n espacial de alta tecnolog\u00eda deben lidiar con las consecuencias de una tragedia inimaginable.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/1I3oE47FZwSuQWYP02d9rSCaQpq.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.954,
+        "season": 6,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "15/06/2023",
+        "temporada_nombre": "Temporada 6",
+        "temporada_num_episodios": 5,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/5Em4wbpBhNr9BsEYQXh63bCaBOU.jpg",
+        "temporada_sinopsis": "Historias retorcidas que abarcan \u00e9pocas (y terrores) ofrecen una gran cantidad de sorpresas en la temporada m\u00e1s impredecible de esta innovadora serie de antolog\u00eda hasta el momento.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Beyond the Sea",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 87,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/1I3oE47FZwSuQWYP02d9rSCaQpq.jpg",
+    "title": "Black Mirror 6x3",
+    "url": "https://cuevana3.ch/episodio/black-mirror-6x3"
+}

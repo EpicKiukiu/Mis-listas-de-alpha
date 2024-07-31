@@ -1,0 +1,125 @@
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "cuevana3video",
+    "episode": "01",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "5",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "05/06/2019",
+        "castandrole": [
+            [
+                "Anthony Mackie",
+                "Danny"
+            ],
+            [
+                "August Muschett",
+                "Tyler"
+            ],
+            [
+                "Austin Michael Young",
+                "Chester"
+            ],
+            [
+                "Caroline Martin",
+                "Jemma"
+            ],
+            [
+                "Eduardo Mossri",
+                "Waiter"
+            ],
+            [
+                "Fola Evans-Akingbola",
+                "Mariella"
+            ],
+            [
+                "Guilherme Vallim",
+                "Maxwell"
+            ],
+            [
+                "Joe Parker",
+                "Jason"
+            ],
+            [
+                "Jordan Carlos",
+                "Simon"
+            ],
+            [
+                "Ludi Lin",
+                "Lance"
+            ],
+            [
+                "Monique Cynthia Brown",
+                "Daisy"
+            ],
+            [
+                "Nicole Beharie",
+                "Theo"
+            ],
+            [
+                "Pom Klementieff",
+                "Roxette"
+            ],
+            [
+                "Yahya Abdul-Mateen II",
+                "Karl"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Anne Sewitsky, James Hawes, Owen Harris",
+        "episode": 1,
+        "episodio_air_date": "05/06/2019",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/t8uIVDjfCoutXHwIRZoUX8XpNS2.jpg",
+        "episodio_sinopsis": "Cuando Danny y Karl, dos antiguos amigos de la universidad, se reencuentran en un juego de realidad virtual, sus partidas nocturnas tendr\u00e1n consecuencias inesperadas.",
+        "episodio_titulo": "Striking Vipers",
+        "episodio_vote_average": 6.332,
+        "episodio_vote_count": 211,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Cuando Danny y Karl, dos antiguos amigos de la universidad, se reencuentran en un juego de realidad virtual, sus partidas nocturnas tendr\u00e1n consecuencias inesperadas.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/t8uIVDjfCoutXHwIRZoUX8XpNS2.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.332,
+        "season": 5,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "05/06/2019",
+        "temporada_nombre": "Temporada 5",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/hZ27wJxNs4PSc7RrOs22RMgKl2m.jpg",
+        "temporada_sinopsis": "Un videojuego transforma una larga amistad, una red social debe hacer frente a un secuestro y una adolescente intima con la versi\u00f3n virtual de su cantante favorita.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Striking Vipers",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 211,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/t8uIVDjfCoutXHwIRZoUX8XpNS2.jpg",
+    "title": "Black Mirror 5x1",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": "https://cuevana3.ch/episodio/black-mirror-5x1"
+}

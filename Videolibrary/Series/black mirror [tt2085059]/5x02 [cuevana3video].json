@@ -1,0 +1,169 @@
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "cuevana3video",
+    "episode": "02",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "5",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "05/06/2019",
+        "castandrole": [
+            [
+                "Adam McNamara",
+                "Marksman Harris"
+            ],
+            [
+                "Alice Bailey Johnson",
+                "Markswoman Jones"
+            ],
+            [
+                "Amanda Drew",
+                "Hayley"
+            ],
+            [
+                "Ambreen Razia",
+                "WPC Najma Haque"
+            ],
+            [
+                "Andrew Scott",
+                "Chris Gillhaney"
+            ],
+            [
+                "Archie Rush",
+                "Cosmo"
+            ],
+            [
+                "Caitlin Innes Edwards",
+                "Hannah"
+            ],
+            [
+                "Calum Callaghan",
+                "PC Damien Bullen"
+            ],
+            [
+                "Conrad Khan",
+                "Dibbs"
+            ],
+            [
+                "Crystal Clarke",
+                "Tipi"
+            ],
+            [
+                "Damson Idris",
+                "Jaden Tommins"
+            ],
+            [
+                "Daniel Ings",
+                "David Gilkes"
+            ],
+            [
+                "Gareth Kane",
+                "PC Wanson"
+            ],
+            [
+                "Hilary Connell",
+                "Receptionist"
+            ],
+            [
+                "Jorge Cordova",
+                "Agent Cruz"
+            ],
+            [
+                "Laura Morgan",
+                "Thalia"
+            ],
+            [
+                "Maggie Bain",
+                "Maryam"
+            ],
+            [
+                "Mirirai Sithole",
+                "Shonelle"
+            ],
+            [
+                "Monica Dolan",
+                "CS Linda Grace"
+            ],
+            [
+                "Quincy Dunn-Baker",
+                "Don"
+            ],
+            [
+                "Roger Alborough",
+                "Joe"
+            ],
+            [
+                "Ruibo Qian",
+                "Penelope Wu"
+            ],
+            [
+                "Sarah Ridgeway",
+                "WPC Roach"
+            ],
+            [
+                "Seun Shote",
+                "Simon"
+            ],
+            [
+                "Topher Grace",
+                "Billy Bauer"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Anne Sewitsky, James Hawes, Owen Harris",
+        "episode": 2,
+        "episodio_air_date": "05/06/2019",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/wOvJYn5p1dfjL4zNgZuMMhT0KPE.jpg",
+        "episodio_sinopsis": "Un conductor de VTC provoca una crisis internacional cuando secuestra a un empleado de una empresa de redes sociales en Londres.",
+        "episodio_titulo": "Smithereens",
+        "episodio_vote_average": 6.889,
+        "episodio_vote_count": 194,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Un conductor de VTC provoca una crisis internacional cuando secuestra a un empleado de una empresa de redes sociales en Londres.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/wOvJYn5p1dfjL4zNgZuMMhT0KPE.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.889,
+        "season": 5,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "05/06/2019",
+        "temporada_nombre": "Temporada 5",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/hZ27wJxNs4PSc7RrOs22RMgKl2m.jpg",
+        "temporada_sinopsis": "Un videojuego transforma una larga amistad, una red social debe hacer frente a un secuestro y una adolescente intima con la versi\u00f3n virtual de su cantante favorita.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Smithereens",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 194,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/wOvJYn5p1dfjL4zNgZuMMhT0KPE.jpg",
+    "title": "Black Mirror 5x2",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": "https://cuevana3.ch/episodio/black-mirror-5x2"
+}

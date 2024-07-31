@@ -1,0 +1,133 @@
+{
+    "action": "findvideos",
+    "channel": "cuevana3video",
+    "episode": "02",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "15/06/2023",
+        "castandrole": [
+            [
+                "Alisa Gashi",
+                "Reconstruction Dawn"
+            ],
+            [
+                "Beth Robb Adams",
+                "Dawn Challis"
+            ],
+            [
+                "Clive Myrie",
+                "Clive Myrie"
+            ],
+            [
+                "Daniel Portman",
+                "Stuart King"
+            ],
+            [
+                "Ellie White",
+                "Kate Cezar"
+            ],
+            [
+                "Gregor Firth",
+                "Kenneth McCardle"
+            ],
+            [
+                "John Hannah",
+                "Richard King"
+            ],
+            [
+                "Kirsty Wark",
+                "Award Presenter"
+            ],
+            [
+                "Laura Cairns",
+                "Doctor"
+            ],
+            [
+                "Marcella Whittingdale",
+                "Reporter"
+            ],
+            [
+                "Monica Dolan",
+                "Janet McCardle"
+            ],
+            [
+                "Myha'la",
+                "Pia"
+            ],
+            [
+                "Richard Ayoade",
+                "Richard Ayoade (voice)"
+            ],
+            [
+                "Samuel Blenkin",
+                "Davis McCardle"
+            ],
+            [
+                "Scott Mooney",
+                "Simon Challis"
+            ],
+            [
+                "Tom Crowhurst",
+                "Iain Adair"
+            ],
+            [
+                "Weruche Opia",
+                "Actress"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Sam Miller",
+        "episode": 2,
+        "episodio_air_date": "15/06/2023",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/dA9ZWi2Q172vYUVxhKPTarJeDLj.jpg",
+        "episodio_sinopsis": "Una pareja llega a un pueblo escoc\u00e9s semidesierto para grabar un documental sobre naturaleza. Pero todo cambia cuando deciden investigar un truculento suceso del pasado.",
+        "episodio_titulo": "Loch Henry",
+        "episodio_vote_average": 6.852,
+        "episodio_vote_count": 88,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 5,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Una pareja llega a un pueblo escoc\u00e9s semidesierto para grabar un documental sobre naturaleza. Pero todo cambia cuando deciden investigar un truculento suceso del pasado.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/dA9ZWi2Q172vYUVxhKPTarJeDLj.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.852,
+        "season": 6,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "15/06/2023",
+        "temporada_nombre": "Temporada 6",
+        "temporada_num_episodios": 5,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/5Em4wbpBhNr9BsEYQXh63bCaBOU.jpg",
+        "temporada_sinopsis": "Historias retorcidas que abarcan \u00e9pocas (y terrores) ofrecen una gran cantidad de sorpresas en la temporada m\u00e1s impredecible de esta innovadora serie de antolog\u00eda hasta el momento.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Loch Henry",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 88,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/dA9ZWi2Q172vYUVxhKPTarJeDLj.jpg",
+    "title": "Black Mirror 6x2",
+    "url": "https://cuevana3.ch/episodio/black-mirror-6x2"
+}

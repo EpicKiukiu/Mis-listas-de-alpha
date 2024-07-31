@@ -1,0 +1,131 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "03",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "4",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "29/12/2017",
+        "castandrole": [
+            [
+                "Adelle Leonce",
+                "Noni Harper-Brown"
+            ],
+            [
+                "Andrea Riseborough",
+                "Mia Nolan"
+            ],
+            [
+                "Andrew Gower",
+                "Rob"
+            ],
+            [
+                "Anthony Welsh",
+                "Anan Akhand"
+            ],
+            [
+                "Armin Karima",
+                "Farshad, Hotel Receptionist"
+            ],
+            [
+                "Brian Pettifer",
+                "William Grange, Dentist"
+            ],
+            [
+                "Claire Rushbrook",
+                "Police Detective"
+            ],
+            [
+                "Dilja Imana",
+                "Ali Akhand"
+            ],
+            [
+                "James Eeles",
+                "DC Lydon"
+            ],
+            [
+                "Jamie Michie",
+                "Simon Nolan"
+            ],
+            [
+                "Joshua James",
+                "Gordy"
+            ],
+            [
+                "Kiran Sonia Sawar",
+                "Shazia Akhand"
+            ],
+            [
+                "Sigur\u00f0ur Sigurj\u00f3nsson",
+                "Room Service Man"
+            ],
+            [
+                "Stef\u00e1n \u00d6rn Eggertsson",
+                "Finn Nolan"
+            ],
+            [
+                "\u00d3laf\u00eda Hr\u00f6nn J\u00f3nsd\u00f3ttir",
+                "Felicity Carmichael"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Colm McCarthy, David Slade, Jodie Foster, John Hillcoat, Tim Van Patten, Toby Haynes",
+        "episode": 3,
+        "episodio_air_date": "29/12/2017",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/mvNCd4qfwtdXeRHgvWHRRPUA1TF.jpg",
+        "episodio_sinopsis": "Mia es una arquitecta que debe guardar un terrible secreto mientras una investigadora de seguros examina los recuerdos de los testigos de un accidente.",
+        "episodio_titulo": "Cocodrile",
+        "episodio_vote_average": 6.853,
+        "episodio_vote_count": 218,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Mia es una arquitecta que debe guardar un terrible secreto mientras una investigadora de seguros examina los recuerdos de los testigos de un accidente.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/mvNCd4qfwtdXeRHgvWHRRPUA1TF.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.853,
+        "season": 4,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "29/12/2017",
+        "temporada_nombre": "Temporada 4",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/rVa7ve3YzdaIbO0zzFivWNlitX4.jpg",
+        "temporada_sinopsis": "Fantas\u00edas fuera de control, aparatos que divulgan oscuros secretos y una mujer que huye de un tenaz cazador son algunos de los nuevos relatos sobre tecnolog\u00eda desbocada.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Cocodrile",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 218,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/4x03.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/mvNCd4qfwtdXeRHgvWHRRPUA1TF.jpg",
+    "title": "Black Mirror 4x3",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

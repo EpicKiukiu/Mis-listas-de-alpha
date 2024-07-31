@@ -1,0 +1,157 @@
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "cuevana3video",
+    "episode": "03",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "2",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "25/02/2013",
+        "castandrole": [
+            [
+                "Abigail Thaw",
+                "MP Selection Committee 2"
+            ],
+            [
+                "Amber Anderson",
+                "Sara"
+            ],
+            [
+                "Bruce Mackinnon",
+                "MP Selection Committee 3"
+            ],
+            [
+                "Charlotte Longfield",
+                "Shopper"
+            ],
+            [
+                "Chloe Pirrie",
+                "Gwendolyn Harris"
+            ],
+            [
+                "Christina Chong",
+                "Tamsin"
+            ],
+            [
+                "Daniel Rigby",
+                "Jamie Salter"
+            ],
+            [
+                "Daniel Tatarsky",
+                "Returning Officer"
+            ],
+            [
+                "David Ajala",
+                "Jeff Carter"
+            ],
+            [
+                "Ed Gaughan",
+                "Shaun"
+            ],
+            [
+                "Jack Monaghan",
+                "Hustings Host"
+            ],
+            [
+                "James Howard",
+                "Reporter"
+            ],
+            [
+                "James Lance",
+                "Conor Simpson"
+            ],
+            [
+                "James Richard Marshall",
+                "Monroe's Campaign Agent"
+            ],
+            [
+                "Jason Flemyng",
+                "Jack Napier"
+            ],
+            [
+                "Kenneth Collard",
+                "Jim"
+            ],
+            [
+                "Louis Waymouth",
+                "Simon Finch"
+            ],
+            [
+                "Michael Shaeffer",
+                "Roy"
+            ],
+            [
+                "Michael Webber",
+                "MP Selection Committee 1"
+            ],
+            [
+                "Pip Torrens",
+                "Philip Crane"
+            ],
+            [
+                "Sarah Hoare",
+                "Woman with Pushchair"
+            ],
+            [
+                "Tobias Menzies",
+                "Liam Monroe"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Bryn Higgins, Carl Tibbetts, Owen Harris",
+        "episode": 3,
+        "episodio_air_date": "25/02/2013",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/hSEwesgbIQWoMucQdc55c4qaAQM.jpg",
+        "episodio_sinopsis": "Un c\u00f3mico fracasado que pone la voz a un oso de dibujos animados, se ve arrastrado a la pol\u00edtica cuando los ejecutivos quieren que el oso se presente como candidato.",
+        "episodio_titulo": "El momento Waldo",
+        "episodio_vote_average": 6.387,
+        "episodio_vote_count": 261,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Un c\u00f3mico fracasado que pone la voz a un oso de dibujos animados, se ve arrastrado a la pol\u00edtica cuando los ejecutivos quieren que el oso se presente como candidato.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/hSEwesgbIQWoMucQdc55c4qaAQM.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.387,
+        "season": 2,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "11/02/2013",
+        "temporada_nombre": "Temporada 2",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/fzhPE9F0UjCQlfACOSBLh5uci1L.jpg",
+        "temporada_sinopsis": "La segunda temporada de esta serie antol\u00f3gica examina las sombr\u00edas historias de una adicta a las redes sociales, una mujer que toma parte en un programa en vivo y m\u00e1s.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "El momento Waldo",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 261,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/hSEwesgbIQWoMucQdc55c4qaAQM.jpg",
+    "title": "Black Mirror 2x3",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": "https://cuevana3.ch/episodio/black-mirror-2x3"
+}

@@ -1,0 +1,103 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "01",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "2",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "11/02/2013",
+        "castandrole": [
+            [
+                "Claire Keelan",
+                "Naomi"
+            ],
+            [
+                "Domhnall Gleeson",
+                "Ash Starmer"
+            ],
+            [
+                "Flora Nicholson",
+                "Midwife"
+            ],
+            [
+                "Glenn Hanning",
+                "Delivery Man"
+            ],
+            [
+                "Hayley Atwell",
+                "Martha Starmer"
+            ],
+            [
+                "Indira Ainger",
+                "Martha's Daughter"
+            ],
+            [
+                "Sinead Matthews",
+                "Sarah"
+            ],
+            [
+                "Tim Delap",
+                "Simon"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Bryn Higgins, Carl Tibbetts, Owen Harris",
+        "episode": 1,
+        "episodio_air_date": "11/02/2013",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/ltgvZMI9y73GOlBqoOFiXlot87V.jpg",
+        "episodio_sinopsis": "Despu\u00e9s de enterarse de un nuevo servicio que permite a la gente estar en contacto con los muertos, Martha, solitaria y afligida, conecta con su difunto novio.",
+        "episodio_titulo": "Ahora mismo vuelvo",
+        "episodio_vote_average": 7.528,
+        "episodio_vote_count": 302,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Despu\u00e9s de enterarse de un nuevo servicio que permite a la gente estar en contacto con los muertos, Martha, solitaria y afligida, conecta con su difunto novio.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/ltgvZMI9y73GOlBqoOFiXlot87V.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.528,
+        "season": 2,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "11/02/2013",
+        "temporada_nombre": "Temporada 2",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/fzhPE9F0UjCQlfACOSBLh5uci1L.jpg",
+        "temporada_sinopsis": "La segunda temporada de esta serie antol\u00f3gica examina las sombr\u00edas historias de una adicta a las redes sociales, una mujer que toma parte en un programa en vivo y m\u00e1s.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Ahora mismo vuelvo",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 302,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/2x01.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/ltgvZMI9y73GOlBqoOFiXlot87V.jpg",
+    "title": "Black Mirror 2x1",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

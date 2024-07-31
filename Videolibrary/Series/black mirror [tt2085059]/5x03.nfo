@@ -1,0 +1,143 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "03",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "5",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "05/06/2019",
+        "castandrole": [
+            [
+                "Alessa Gironi",
+                "Leah"
+            ],
+            [
+                "Angourie Rice",
+                "Rachel"
+            ],
+            [
+                "Daniel Stewart Sherman",
+                "Bear"
+            ],
+            [
+                "Edward J. Pepperell",
+                "Cop"
+            ],
+            [
+                "Frances Sholto-Douglas",
+                "Carmen"
+            ],
+            [
+                "Greg Kriek",
+                "Todd"
+            ],
+            [
+                "James III",
+                "Habanero"
+            ],
+            [
+                "Jamie Royal",
+                "Nurse"
+            ],
+            [
+                "Jerah Milligan",
+                "Busy G"
+            ],
+            [
+                "Madison Davenport",
+                "Jack"
+            ],
+            [
+                "Marc Menchaca",
+                "Kevin"
+            ],
+            [
+                "Martin Munro",
+                "Caretaker"
+            ],
+            [
+                "Mikkie-Dene Le Roux",
+                "Ms Walpole"
+            ],
+            [
+                "Miley Cyrus",
+                "Ashley O"
+            ],
+            [
+                "Nicholas Pauling",
+                "Dr. Munk"
+            ],
+            [
+                "Savana Tardieu",
+                "Magnolia"
+            ],
+            [
+                "Sive Gubangxa",
+                "Stage Manager"
+            ],
+            [
+                "Susan Pourfar",
+                "Catherine"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Anne Sewitsky, James Hawes, Owen Harris",
+        "episode": 3,
+        "episodio_air_date": "05/06/2019",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/uwLkdgvIT7hvJD2k9FMdiA8MpVX.jpg",
+        "episodio_sinopsis": "Una adolescente solitaria se obsesiona con una mu\u00f1eca robot basada en su \u00eddolo del pop, Ashley O, justo cuando la vida de la verdadera Ashley empieza a desmoronarse.",
+        "episodio_titulo": "Rachel, Jack y Ashley Too",
+        "episodio_vote_average": 6.031,
+        "episodio_vote_count": 191,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Una adolescente solitaria se obsesiona con una mu\u00f1eca robot basada en su \u00eddolo del pop, Ashley O, justo cuando la vida de la verdadera Ashley empieza a desmoronarse.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/uwLkdgvIT7hvJD2k9FMdiA8MpVX.jpg",
+        "premiered": "04/12/2011",
+        "rating": 6.031,
+        "season": 5,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "05/06/2019",
+        "temporada_nombre": "Temporada 5",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/hZ27wJxNs4PSc7RrOs22RMgKl2m.jpg",
+        "temporada_sinopsis": "Un videojuego transforma una larga amistad, una red social debe hacer frente a un secuestro y una adolescente intima con la versi\u00f3n virtual de su cantante favorita.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Rachel, Jack y Ashley Too",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 191,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/5x03.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/uwLkdgvIT7hvJD2k9FMdiA8MpVX.jpg",
+    "title": "Black Mirror 5x3",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

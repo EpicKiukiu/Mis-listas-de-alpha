@@ -1,0 +1,195 @@
+https://www.themoviedb.org/tv/42009/season/6/episode/1
+{
+    "action": "findvideos",
+    "channel": "videolibrary",
+    "episode": "01",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "15/06/2023",
+        "castandrole": [
+            [
+                "Alex Magliaro",
+                "Male Cop"
+            ],
+            [
+                "Annie Murphy",
+                "Joan / Annie Murphy"
+            ],
+            [
+                "Anthony Wise",
+                "Pastor"
+            ],
+            [
+                "Avi Nash",
+                "Krish"
+            ],
+            [
+                "Ayo Edebiri",
+                "Sandy"
+            ],
+            [
+                "Bea Segura",
+                "Source Dr. Atkinson"
+            ],
+            [
+                "Ben Barnes",
+                "TV Mac"
+            ],
+            [
+                "Brian Law",
+                "Guy in Skillane Legal"
+            ],
+            [
+                "Camirin Farmer",
+                "TV Sandy"
+            ],
+            [
+                "Danielle Vitalis",
+                "Fatima Klaas"
+            ],
+            [
+                "Ellen Robertson",
+                "Sandy's Pal"
+            ],
+            [
+                "Himesh Patel",
+                "TV Krish"
+            ],
+            [
+                "Jaboukie Young-White",
+                "TV Eric"
+            ],
+            [
+                "Jared Goldstein",
+                "Eric"
+            ],
+            [
+                "Kayla Lorette",
+                "Source Joan"
+            ],
+            [
+                "Laurel Lefkow",
+                "Dr. Atkinson"
+            ],
+            [
+                "Leila Farzad",
+                "Mona Javadi"
+            ],
+            [
+                "Lolly Adefope",
+                "Joan's Lawyer"
+            ],
+            [
+                "Luke Beattie",
+                "Brutus"
+            ],
+            [
+                "Mark McKerracher",
+                "TV Pastor"
+            ],
+            [
+                "Mary Beth Barone",
+                "Lucy"
+            ],
+            [
+                "Max Harwood",
+                "Julian"
+            ],
+            [
+                "Michael Cera",
+                "Beppe"
+            ],
+            [
+                "Mujde Ipek",
+                "Female Cop"
+            ],
+            [
+                "Paul Gorvin",
+                "TV Brutus"
+            ],
+            [
+                "Rich Fulcher",
+                "Gainsborough"
+            ],
+            [
+                "Rob Delaney",
+                "Mac"
+            ],
+            [
+                "Salma Hayek Pinault",
+                "TV Joan / Salma Hayek Pinault"
+            ],
+            [
+                "Steen Raskopoulos",
+                "Mike the Jogger"
+            ],
+            [
+                "Tessa Wong",
+                "Streamberry Receptionist"
+            ],
+            [
+                "Wunmi Mosaku",
+                "TV Joan's Lawyer"
+            ],
+            [
+                "\u00c9va Magyar",
+                "TV Dr. Atkinson"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Ally Pankiw",
+        "episode": 1,
+        "episodio_air_date": "15/06/2023",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/7cB4EIsn2eSP26t0ta8a9szWVZE.jpg",
+        "episodio_sinopsis": "Una mujer corriente descubre que un servicio de streaming ha convertido su vida (y sus secretos) en una serie dram\u00e1tica protagonizada por la famosa actriz Salma Hayek.",
+        "episodio_titulo": "Joan es horrible",
+        "episodio_vote_average": 7.079,
+        "episodio_vote_count": 101,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 5,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Una mujer corriente descubre que un servicio de streaming ha convertido su vida (y sus secretos) en una serie dram\u00e1tica protagonizada por la famosa actriz Salma Hayek.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/7cB4EIsn2eSP26t0ta8a9szWVZE.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.079,
+        "season": 6,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "15/06/2023",
+        "temporada_nombre": "Temporada 6",
+        "temporada_num_episodios": 5,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/5Em4wbpBhNr9BsEYQXh63bCaBOU.jpg",
+        "temporada_sinopsis": "Historias retorcidas que abarcan \u00e9pocas (y terrores) ofrecen una gran cantidad de sorpresas en la temporada m\u00e1s impredecible de esta innovadora serie de antolog\u00eda hasta el momento.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Joan es horrible",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 101,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/6x01.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/7cB4EIsn2eSP26t0ta8a9szWVZE.jpg",
+    "title": "Black Mirror 6x1",
+    "url": ""
+}

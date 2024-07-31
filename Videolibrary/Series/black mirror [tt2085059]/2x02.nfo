@@ -1,0 +1,107 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "02",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "2",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "18/02/2013",
+        "castandrole": [
+            [
+                "Elisabeth Hopper",
+                "Knife Woman"
+            ],
+            [
+                "Ian Bonar",
+                "Damien"
+            ],
+            [
+                "Imani Jackman",
+                "Jemima Sykes"
+            ],
+            [
+                "Lenora Crichlow",
+                "Victoria Skillane"
+            ],
+            [
+                "Michael Smiley",
+                "Baxter"
+            ],
+            [
+                "Nick Bartlett",
+                "Welder Guy"
+            ],
+            [
+                "Nick Ofield",
+                "Iain Rannoch"
+            ],
+            [
+                "Russell Barnett",
+                "News Reporter"
+            ],
+            [
+                "Tuppence Middleton",
+                "Jem"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Bryn Higgins, Carl Tibbetts, Owen Harris",
+        "episode": 2,
+        "episodio_air_date": "18/02/2013",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/iS34hF0GMqwry7gJtDoH29r5YVv.jpg",
+        "episodio_sinopsis": "Victoria se despierta y no puede recordar nada de su vida. Todo el mundo con el que se encuentra, se niega a comunicarse con ella.",
+        "episodio_titulo": "Oso blanco",
+        "episodio_vote_average": 7.374,
+        "episodio_vote_count": 273,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 3,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Victoria se despierta y no puede recordar nada de su vida. Todo el mundo con el que se encuentra, se niega a comunicarse con ella.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/iS34hF0GMqwry7gJtDoH29r5YVv.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.374,
+        "season": 2,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "11/02/2013",
+        "temporada_nombre": "Temporada 2",
+        "temporada_num_episodios": 3,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/fzhPE9F0UjCQlfACOSBLh5uci1L.jpg",
+        "temporada_sinopsis": "La segunda temporada de esta serie antol\u00f3gica examina las sombr\u00edas historias de una adicta a las redes sociales, una mujer que toma parte en un programa en vivo y m\u00e1s.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Oso blanco",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 273,
+        "writer": "Charlie Brooker",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/2x02.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/iS34hF0GMqwry7gJtDoH29r5YVv.jpg",
+    "title": "Black Mirror 2x2",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

@@ -1,0 +1,195 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "06",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "3",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "21/10/2016",
+        "castandrole": [
+            [
+                "Adrian Lukis",
+                "Home Secretary, Alex Wallis"
+            ],
+            [
+                "Anita Anand",
+                "News Anchor"
+            ],
+            [
+                "Ben Miles",
+                "Tom Pickering"
+            ],
+            [
+                "Benedict Wong",
+                "Shaun Li"
+            ],
+            [
+                "Cecilia Noble",
+                "Dame Patricia Lamarr"
+            ],
+            [
+                "Charles Babalola",
+                "Tusk"
+            ],
+            [
+                "Duncan Pow",
+                "Garrett Scholes"
+            ],
+            [
+                "Elizabeth Berrington",
+                "Jo Powers"
+            ],
+            [
+                "Esther Hall",
+                "Vanessa Dahl"
+            ],
+            [
+                "Faiza Shaheen",
+                "Pundit"
+            ],
+            [
+                "Faye Marsay",
+                "Blue Colson"
+            ],
+            [
+                "Georgina Rich",
+                "Tess Wallender"
+            ],
+            [
+                "Holli Dempsey",
+                "Clara Meades"
+            ],
+            [
+                "Imogen Daines",
+                "MRI Technician"
+            ],
+            [
+                "James Larkin",
+                "Simon Powers"
+            ],
+            [
+                "Jane Bertish",
+                "Head of MI5"
+            ],
+            [
+                "Jeremy Booth",
+                "Dog Walker"
+            ],
+            [
+                "Joe Armstrong",
+                "Nick Shelton"
+            ],
+            [
+                "Jonas Karlsson",
+                "Rasmus Sjolberg"
+            ],
+            [
+                "Katherine Kingsley",
+                "Dana Costello"
+            ],
+            [
+                "Kelly Macdonald",
+                "Karin Parke"
+            ],
+            [
+                "Leonie Elliott",
+                "Fiona, Clara's Flatmate"
+            ],
+            [
+                "Mateusz Mirek",
+                "Delivery Man"
+            ],
+            [
+                "Matt Forde",
+                "Pundit"
+            ],
+            [
+                "Michael Bott",
+                "Inquiry Official"
+            ],
+            [
+                "Reon Smith Marshall",
+                "Aaron Sheen"
+            ],
+            [
+                "Robin Pearce",
+                "Harry Barclay"
+            ],
+            [
+                "Thomas Dominique",
+                "Roadie"
+            ],
+            [
+                "Tom Ashley",
+                "Paramedic"
+            ],
+            [
+                "Vinette Robinson",
+                "Liza Bahar"
+            ],
+            [
+                "Ziggy Heath",
+                "MRI Doctor"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Dan Trachtenberg, Jakob Verbruggen, James Hawes, James Watkins, Joe Wright, Owen Harris",
+        "episode": 6,
+        "episodio_air_date": "21/10/2016",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/sBrdKKIMwdiFj5Xx8NRzLxqfVkX.jpg",
+        "episodio_sinopsis": "Una periodista muere envuelta en la pol\u00e9mica en las redes sociales. Al investigar, una veterana polic\u00eda y su disc\u00edpula, experta en tecnolog\u00eda, descubren algo espantoso.",
+        "episodio_titulo": "Odio nacional",
+        "episodio_vote_average": 7.95,
+        "episodio_vote_count": 261,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Una periodista muere envuelta en la pol\u00e9mica en las redes sociales. Al investigar, una veterana polic\u00eda y su disc\u00edpula, experta en tecnolog\u00eda, descubren algo espantoso.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/sBrdKKIMwdiFj5Xx8NRzLxqfVkX.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.95,
+        "season": 3,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "21/10/2016",
+        "temporada_nombre": "Temporada 3",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/pzspnCzSuyFnWrtxZh7AM0nHn7h.jpg",
+        "temporada_sinopsis": "Historias con la tecnolog\u00eda como nexo: amantes en un para\u00edso surrealista, un joven angustiado por unos SMS muy extra\u00f1os y una app social con inquietantes capacidades.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Odio nacional",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 261,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/3x06.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/sBrdKKIMwdiFj5Xx8NRzLxqfVkX.jpg",
+    "title": "Black Mirror 3x6",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

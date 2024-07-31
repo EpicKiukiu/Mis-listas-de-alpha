@@ -1,0 +1,143 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "05",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "3",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "21/10/2016",
+        "castandrole": [
+            [
+                "Ariane Labed",
+                "Catarina"
+            ],
+            [
+                "Aruhan Galieva",
+                "Village Mother"
+            ],
+            [
+                "Dean Ashton",
+                "Guard Bradley"
+            ],
+            [
+                "Edward Upcott",
+                "Roach"
+            ],
+            [
+                "Francis Magee",
+                "Parn Heidekker"
+            ],
+            [
+                "Kav\u00e9 Niku",
+                "Villager"
+            ],
+            [
+                "Kola Bokinni",
+                "Lennard"
+            ],
+            [
+                "Loreece Harrison",
+                "Dream Girl"
+            ],
+            [
+                "Luke Gomes",
+                "Roach"
+            ],
+            [
+                "Madeline Brewer",
+                "Raiman"
+            ],
+            [
+                "Malachi Kirby",
+                "Stripe"
+            ],
+            [
+                "Michael Birch",
+                "Roach"
+            ],
+            [
+                "Michael Kelly",
+                "Arquette"
+            ],
+            [
+                "Nick Gillard",
+                "Roach"
+            ],
+            [
+                "Sarah Snook",
+                "Medina"
+            ],
+            [
+                "Simon Connolly",
+                "Doctor"
+            ],
+            [
+                "Thomas Thoroe",
+                "Villager #2"
+            ],
+            [
+                "Toby Oliver",
+                "Boy Roach"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Dan Trachtenberg, Jakob Verbruggen, James Hawes, James Watkins, Joe Wright, Owen Harris",
+        "episode": 5,
+        "episodio_air_date": "21/10/2016",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/A4g3nH0kYQpqHv1oHBXuTgRgT5u.jpg",
+        "episodio_sinopsis": "Despu\u00e9s de su primera batalla con un esquivo enemigo, un soldado empieza a tener sensaciones extra\u00f1as y fallos t\u00e9cnicos muy raros.",
+        "episodio_titulo": "El hombre contra el fuego",
+        "episodio_vote_average": 7.209,
+        "episodio_vote_count": 256,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Despu\u00e9s de su primera batalla con un esquivo enemigo, un soldado empieza a tener sensaciones extra\u00f1as y fallos t\u00e9cnicos muy raros.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/A4g3nH0kYQpqHv1oHBXuTgRgT5u.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.209,
+        "season": 3,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "21/10/2016",
+        "temporada_nombre": "Temporada 3",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/pzspnCzSuyFnWrtxZh7AM0nHn7h.jpg",
+        "temporada_sinopsis": "Historias con la tecnolog\u00eda como nexo: amantes en un para\u00edso surrealista, un joven angustiado por unos SMS muy extra\u00f1os y una app social con inquietantes capacidades.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "El hombre contra el fuego",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 256,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/3x05.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/A4g3nH0kYQpqHv1oHBXuTgRgT5u.jpg",
+    "title": "Black Mirror 3x5",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}

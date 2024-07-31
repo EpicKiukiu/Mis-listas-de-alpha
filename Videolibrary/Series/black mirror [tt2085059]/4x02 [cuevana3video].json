@@ -1,0 +1,169 @@
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "cuevana3video",
+    "episode": "02",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "4",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "29/12/2017",
+        "castandrole": [
+            [
+                "Abby Quinn",
+                "Meryl"
+            ],
+            [
+                "Angela Vint",
+                "Anaesthetist"
+            ],
+            [
+                "Aniya Hodge",
+                "Sara age 3"
+            ],
+            [
+                "Brenna Harding",
+                "Sara"
+            ],
+            [
+                "Carlos Pinder",
+                "Man Who Finds Sara"
+            ],
+            [
+                "Dempsey Bryk",
+                "Cal"
+            ],
+            [
+                "Edie Inksetter",
+                "School Nurse"
+            ],
+            [
+                "Jason Weinberg",
+                "Surgeon"
+            ],
+            [
+                "Jenny Raven",
+                "Jasmine"
+            ],
+            [
+                "Kaden Stephen",
+                "Boy in Fight"
+            ],
+            [
+                "Kaleb Young",
+                "Cal age 10"
+            ],
+            [
+                "Lisa Michelle Cornelius",
+                "School Yard Teacher"
+            ],
+            [
+                "Matt Baram",
+                "Dr. Usborne"
+            ],
+            [
+                "Mckayla Twiggs",
+                "Meryl age 9"
+            ],
+            [
+                "Michelle Giroux",
+                "English Teacher"
+            ],
+            [
+                "Nicholas Campbell",
+                "Russ"
+            ],
+            [
+                "Nicky Torchia",
+                "Trick age 12"
+            ],
+            [
+                "Owen Teague",
+                "Trick"
+            ],
+            [
+                "Paul Braunstein",
+                "Anthony"
+            ],
+            [
+                "Ronica Sajnani",
+                "Store Employee"
+            ],
+            [
+                "Rosemarie DeWitt",
+                "Marie"
+            ],
+            [
+                "Sabryn Rock",
+                "Pippa"
+            ],
+            [
+                "Sarah Abbott",
+                "Sara age 9"
+            ],
+            [
+                "Ted Charette",
+                "Young Man at Park"
+            ],
+            [
+                "Tosh Robertson",
+                "Hiro"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Colm McCarthy, David Slade, Jodie Foster, John Hillcoat, Tim Van Patten, Toby Haynes",
+        "episode": 2,
+        "episodio_air_date": "29/12/2017",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/3uXHGkHO5B9icYTxyVRDXoxDldR.jpg",
+        "episodio_sinopsis": "Una madre soltera preocupada por la seguridad de su hija decide implantarle un dispositivo de alta tecnolog\u00eda que monitoriza su localizaci\u00f3n. Y muchas otras cosas.",
+        "episodio_titulo": "Arkangel",
+        "episodio_vote_average": 7.002,
+        "episodio_vote_count": 231,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Una madre soltera preocupada por la seguridad de su hija decide implantarle un dispositivo de alta tecnolog\u00eda que monitoriza su localizaci\u00f3n. Y muchas otras cosas.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/3uXHGkHO5B9icYTxyVRDXoxDldR.jpg",
+        "premiered": "04/12/2011",
+        "rating": 7.002,
+        "season": 4,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "29/12/2017",
+        "temporada_nombre": "Temporada 4",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/rVa7ve3YzdaIbO0zzFivWNlitX4.jpg",
+        "temporada_sinopsis": "Fantas\u00edas fuera de control, aparatos que divulgan oscuros secretos y una mujer que huye de un tenaz cazador son algunos de los nuevos relatos sobre tecnolog\u00eda desbocada.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Arkangel",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 231,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/3uXHGkHO5B9icYTxyVRDXoxDldR.jpg",
+    "title": "Black Mirror 4x2",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": "https://cuevana3.ch/episodio/black-mirror-4x2"
+}

@@ -1,0 +1,119 @@
+https://www.themoviedb.org/tv/42009, https://thetvdb.com/index.php?tab=series&id=253463
+{
+    "action": "findvideos",
+    "add_videolibrary": true,
+    "channel": "videolibrary",
+    "episode": "04",
+    "extra": "episodios",
+    "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+    "id": "4",
+    "infoLabels": {
+        "IMDBNumber": "tt2085059",
+        "aired": "29/12/2017",
+        "castandrole": [
+            [
+                "Alex Tamaro",
+                "Butch"
+            ],
+            [
+                "Anna Dobrucki",
+                "Patty"
+            ],
+            [
+                "Bruce Chong",
+                "David"
+            ],
+            [
+                "Che Watson",
+                "Silverfox"
+            ],
+            [
+                "George Blagden",
+                "Lenny"
+            ],
+            [
+                "Georgina Campbell",
+                "Amy"
+            ],
+            [
+                "Gina Bramhill",
+                "Coach (voice)"
+            ],
+            [
+                "Gwyneth Keyworth",
+                "Nicola"
+            ],
+            [
+                "Jessie Cave",
+                "Edna"
+            ],
+            [
+                "Joe Cole",
+                "Frank"
+            ],
+            [
+                "Luke Manning",
+                "Mike"
+            ],
+            [
+                "Tim Pritchett",
+                "Norman"
+            ]
+        ],
+        "country": "GB, Gran Breta\u00f1a",
+        "director": "Colm McCarthy, David Slade, Jodie Foster, John Hillcoat, Tim Van Patten, Toby Haynes",
+        "episode": 4,
+        "episodio_air_date": "29/12/2017",
+        "episodio_imagen": "https://image.tmdb.org/t/p/original/xvdqaFVz8f8BWZS0ip0Fjr4Eqmt.jpg",
+        "episodio_sinopsis": "Cuando Frank y Amy se conocen gracias a un programa de citas que pone fecha de caducidad a las relaciones, pronto empiezan a cuestionarse la l\u00f3gica del sistema.",
+        "episodio_titulo": "Hang the DJ",
+        "episodio_vote_average": 8.088,
+        "episodio_vote_count": 243,
+        "fanart": "https://image.tmdb.org/t/p/original/38aCLy0BdFbOAIEfuDladoITHN0.jpg",
+        "genre": "Sci-Fi & Fantasy, Drama, Misterio",
+        "homepage": "https://www.netflix.com/title/70264888",
+        "imdb_id": "tt2085059",
+        "in_production": true,
+        "last_air_date": "2023-06-15",
+        "last_episode_to_air": 6,
+        "last_series_episode_to_air": "6x5",
+        "mediatype": "episode",
+        "number_of_episodes": 26,
+        "number_of_seasons": 7,
+        "original_language": "en",
+        "originaltitle": "Black Mirror",
+        "plot": "Cuando Frank y Amy se conocen gracias a un programa de citas que pone fecha de caducidad a las relaciones, pronto empiezan a cuestionarse la l\u00f3gica del sistema.",
+        "popularity": 278.11,
+        "poster_path": "https://image.tmdb.org/t/p/original/xvdqaFVz8f8BWZS0ip0Fjr4Eqmt.jpg",
+        "premiered": "04/12/2011",
+        "rating": 8.088,
+        "season": 4,
+        "status": "Returning Series",
+        "studio": "Channel 4, Netflix",
+        "temporada_air_date": "29/12/2017",
+        "temporada_nombre": "Temporada 4",
+        "temporada_num_episodios": 6,
+        "temporada_poster": "https://image.tmdb.org/t/p/original/rVa7ve3YzdaIbO0zzFivWNlitX4.jpg",
+        "temporada_sinopsis": "Fantas\u00edas fuera de control, aparatos que divulgan oscuros secretos y una mujer que huye de un tenaz cazador son algunos de los nuevos relatos sobre tecnolog\u00eda desbocada.",
+        "thumbnail": "https://image.tmdb.org/t/p/original/6nDRo824oyBwg1prOZHc8UtonVB.jpg",
+        "title": "Hang the DJ",
+        "tmdb_id": "42009",
+        "tvdb_id": "253463",
+        "tvshowtitle": "Black Mirror",
+        "type": "Scripted",
+        "url_scraper": [
+            "https://www.themoviedb.org/tv/42009",
+            "https://thetvdb.com/index.php?tab=series&id=253463"
+        ],
+        "votes": 243,
+        "writer": "Charlie Brooker, William Bridges",
+        "year": 2011
+    },
+    "strm_path": "/black mirror [tt2085059]/4x04.strm",
+    "text_color": "yellow",
+    "thumbnail": "https://image.tmdb.org/t/p/original/xvdqaFVz8f8BWZS0ip0Fjr4Eqmt.jpg",
+    "title": "Black Mirror 4x4",
+    "title_from_channel": "Black Mirror",
+    "tmdb_stat": true,
+    "url": ""
+}
